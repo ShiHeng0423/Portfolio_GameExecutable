@@ -1,0 +1,108 @@
+{
+  "recipes": [
+    {
+      "item_id": 15,
+      "material_requirements": [
+        {
+          "mat_ID": 20,
+          "mat_quantity": 1
+        },
+        {
+          "mat_ID": 19,
+          "mat_quantity": 1
+        }
+      ]
+    },
+    {
+      "item_id": 5,
+      "material_requirements": [
+        {
+          "mat_ID": 16,
+          "mat_quantity": 1
+        },
+        {
+          "mat_ID": 19,
+          "mat_quantity": 1
+        }
+      ]
+    },
+    {
+      "item_id": 6,
+      "material_requirements": [
+        {
+          "mat_ID": 20,
+          "mat_quantity": 2
+        },
+        {
+          "mat_ID": 19,
+          "mat_quantity": 2
+        }
+      ]
+    },
+    {
+      "item_id": 7,
+      "material_requirements": [
+        {
+          "mat_ID": 16,
+          "mat_quantity": 2
+        },
+        {
+          "mat_ID": 17,
+          "mat_quantity": 1
+        }
+      ]
+    },
+    {
+      "item_id": 8,
+      "material_requirements": [
+        {
+          "mat_ID": 16,
+          "mat_quantity": 2
+        },
+        {
+          "mat_ID": 19,
+          "mat_quantity": 1
+        }
+      ]
+    },
+    {
+      "item_id": 9,
+      "material_requirements": [
+        {
+          "mat_ID": 16,
+          "mat_quantity": 1
+        },
+        {
+          "mat_ID": 19,
+          "mat_quantity": 1
+        }
+      ]
+    },
+    {
+      "item_id": 26,
+      "material_requirements": [
+        {
+          "mat_ID": 17,
+          "mat_quantity": 2
+        },
+        {
+          "mat_ID": 20,
+          "mat_quantity": 2
+        }
+      ]
+    },
+    {
+      "item_id": 27,
+      "material_requirements": [
+        {
+          "mat_ID": 17,
+          "mat_quantity": 1
+        },
+        {
+          "mat_ID": 16,
+          "mat_quantity": 4
+        }
+      ]
+    }
+  ]
+}
