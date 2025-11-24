@@ -1,0 +1,7 @@
+#Nigel*1230
+#Nigel*1230
+
+123,12,1232
+
+char all[3]
+all[0] = buf[0] to char [12]
